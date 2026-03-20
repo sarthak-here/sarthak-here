@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **sarthak909999@gmail.com**
 
-- ⚡ Fun fact [> I break things, fix them with AI, and call it *research* 😄 > Also, I believe every problem can be optimized — including life.](> I break things, fix them with AI, and call it *research* 😄 > Also, I believe every problem can be optimized — including life.)
+- ⚡ Fun fact [> I break things, fix them with AI, and call it *research* 😄 > Also, I believe every problem can be optimized — including life.](> I break things, fix them with AI, and call it *research* 😄 > Also, I believe every problem can be optimized — including life)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
