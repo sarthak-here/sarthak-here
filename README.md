@@ -69,7 +69,7 @@ Building intelligent systems — LLMs, Computer Vision, and cloud-native AI pipe
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sarthak-here&hide_border=true)
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=sarthak-here&margin-w=8&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=sarthak-here&margin-w=8&no-frame=true&row=1)](https://github.com/sarthak-here/github-profile-trophy)
 
 </div>
 
