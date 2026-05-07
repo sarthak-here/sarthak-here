@@ -46,7 +46,7 @@ class Sarthak:
 
 ---
 
-## Tech Stack
+## Tech Stacks
 
 <div align="center">
 
