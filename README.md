@@ -61,50 +61,22 @@ I build **agents that do the work**, **APIs that hold up in production**, and **
 ### 🤖 Agentic AI
 
 **[computer-agent](https://github.com/sarthak-here/computer-agent)** &nbsp; An agent that sees your screen and controls your computer autonomously, using Claude vision.
-<br/>
-[![stars](https://img.shields.io/github/stars/sarthak-here/computer-agent?style=flat-square&color=1f6feb&labelColor=0d1117&logo=star&logoColor=58a6ff)](https://github.com/sarthak-here/computer-agent/stargazers)
-[![lang](https://img.shields.io/github/languages/top/sarthak-here/computer-agent?style=flat-square&color=58a6ff&labelColor=0d1117)](https://github.com/sarthak-here/computer-agent)
-[![updated](https://img.shields.io/github/last-commit/sarthak-here/computer-agent?style=flat-square&color=1f6feb&labelColor=0d1117&label=updated)](https://github.com/sarthak-here/computer-agent/commits)
 
 **[astats](https://github.com/sarthak-here/astats)** &nbsp; Agentic AI system for applied statistical workflows, from data intake through analysis.
-<br/>
-[![stars](https://img.shields.io/github/stars/sarthak-here/astats?style=flat-square&color=1f6feb&labelColor=0d1117&logo=star&logoColor=58a6ff)](https://github.com/sarthak-here/astats/stargazers)
-[![lang](https://img.shields.io/github/languages/top/sarthak-here/astats?style=flat-square&color=58a6ff&labelColor=0d1117)](https://github.com/sarthak-here/astats)
-[![updated](https://img.shields.io/github/last-commit/sarthak-here/astats?style=flat-square&color=1f6feb&labelColor=0d1117&label=updated)](https://github.com/sarthak-here/astats/commits)
 
 ### ⚙️ Python Backend
 
 **[advanced-backend](https://github.com/sarthak-here/advanced-backend)** &nbsp; Task management REST API covering the hard parts: async FastAPI, JWT and RBAC, Redis caching, Celery, WebSockets, soft deletes, Alembic migrations, Docker.
-<br/>
-[![stars](https://img.shields.io/github/stars/sarthak-here/advanced-backend?style=flat-square&color=1f6feb&labelColor=0d1117&logo=star&logoColor=58a6ff)](https://github.com/sarthak-here/advanced-backend/stargazers)
-[![lang](https://img.shields.io/github/languages/top/sarthak-here/advanced-backend?style=flat-square&color=58a6ff&labelColor=0d1117)](https://github.com/sarthak-here/advanced-backend)
-[![updated](https://img.shields.io/github/last-commit/sarthak-here/advanced-backend?style=flat-square&color=1f6feb&labelColor=0d1117&label=updated)](https://github.com/sarthak-here/advanced-backend/commits)
 
 **[ai-rag-api](https://github.com/sarthak-here/ai-rag-api)** &nbsp; Production-grade document intelligence API. FastAPI, ChromaDB, Claude, async SQLAlchemy 2.0, pytest, Docker.
-<br/>
-[![stars](https://img.shields.io/github/stars/sarthak-here/ai-rag-api?style=flat-square&color=1f6feb&labelColor=0d1117&logo=star&logoColor=58a6ff)](https://github.com/sarthak-here/ai-rag-api/stargazers)
-[![lang](https://img.shields.io/github/languages/top/sarthak-here/ai-rag-api?style=flat-square&color=58a6ff&labelColor=0d1117)](https://github.com/sarthak-here/ai-rag-api)
-[![updated](https://img.shields.io/github/last-commit/sarthak-here/ai-rag-api?style=flat-square&color=1f6feb&labelColor=0d1117&label=updated)](https://github.com/sarthak-here/ai-rag-api/commits)
 
 **[Expense_tracking_system](https://github.com/sarthak-here/Expense_tracking_system)** &nbsp; Full-stack expense tracker. FastAPI, MySQL, Streamlit, Pandas, pytest, structured logging.
-<br/>
-[![stars](https://img.shields.io/github/stars/sarthak-here/Expense_tracking_system?style=flat-square&color=1f6feb&labelColor=0d1117&logo=star&logoColor=58a6ff)](https://github.com/sarthak-here/Expense_tracking_system/stargazers)
-[![lang](https://img.shields.io/github/languages/top/sarthak-here/Expense_tracking_system?style=flat-square&color=58a6ff&labelColor=0d1117)](https://github.com/sarthak-here/Expense_tracking_system)
-[![updated](https://img.shields.io/github/last-commit/sarthak-here/Expense_tracking_system?style=flat-square&color=1f6feb&labelColor=0d1117&label=updated)](https://github.com/sarthak-here/Expense_tracking_system/commits)
 
 ### 🚀 ML in Production
 
 **[Car_Damage_Detection](https://github.com/sarthak-here/Car_Damage_Detection)** &nbsp; Vehicle damage classifier across 6 classes. ResNet50 transfer learning tuned with Optuna, served through both Streamlit and FastAPI.
-<br/>
-[![stars](https://img.shields.io/github/stars/sarthak-here/Car_Damage_Detection?style=flat-square&color=1f6feb&labelColor=0d1117&logo=star&logoColor=58a6ff)](https://github.com/sarthak-here/Car_Damage_Detection/stargazers)
-[![lang](https://img.shields.io/github/languages/top/sarthak-here/Car_Damage_Detection?style=flat-square&color=58a6ff&labelColor=0d1117)](https://github.com/sarthak-here/Car_Damage_Detection)
-[![updated](https://img.shields.io/github/last-commit/sarthak-here/Car_Damage_Detection?style=flat-square&color=1f6feb&labelColor=0d1117&label=updated)](https://github.com/sarthak-here/Car_Damage_Detection/commits)
 
 **[credit-risk-modelling](https://github.com/sarthak-here/credit-risk-modelling)** &nbsp; End-to-end credit risk scoring. SMOTETomek + Optuna, **AUC 0.98**, deployed as a scoring app.
-<br/>
-[![stars](https://img.shields.io/github/stars/sarthak-here/credit-risk-modelling?style=flat-square&color=1f6feb&labelColor=0d1117&logo=star&logoColor=58a6ff)](https://github.com/sarthak-here/credit-risk-modelling/stargazers)
-[![lang](https://img.shields.io/github/languages/top/sarthak-here/credit-risk-modelling?style=flat-square&color=58a6ff&labelColor=0d1117)](https://github.com/sarthak-here/credit-risk-modelling)
-[![updated](https://img.shields.io/github/last-commit/sarthak-here/credit-risk-modelling?style=flat-square&color=1f6feb&labelColor=0d1117&label=updated)](https://github.com/sarthak-here/credit-risk-modelling/commits)
 
 <br/>
 
